@@ -9,4 +9,4 @@ then run
 ```bash
 python runner.py
 ```
-or using the exe file in runner folder
+or using the exe file 
